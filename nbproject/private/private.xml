@@ -2,6 +2,12 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/E:/Programmierung/SceneMaker_GH/VisualSceneMaker/src/de/dfki/vsm/api/hcm/VSMMessage.java</file>
+            <file>file:/E:/Programmierung/SceneMaker_GH/VisualSceneMaker/src/de/dfki/vsm/api/robokind/ROBScenePlayer.java</file>
+            <file>file:/E:/Programmierung/SceneMaker_GH/VisualSceneMaker/src/de/dfki/vsm/api/hcm/SSIEventHandler.java</file>
+            <file>file:/E:/Programmierung/SceneMaker_GH/VisualSceneMaker/src/de/dfki/vsm/api/VSMScenePlayer.java</file>
+            <file>file:/E:/Programmierung/SceneMaker_GH/VisualSceneMaker/src/de/dfki/vsm/api/hcm/HCMScenePlayer.java</file>
+        </group>
     </open-files>
 </project-private>
